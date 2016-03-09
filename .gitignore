@@ -1,0 +1,6 @@
+*.nosync
+WindowImage.jpg
+DisplayState.plist
+Autosave/
+Project File Backups/
+.DS_Store
